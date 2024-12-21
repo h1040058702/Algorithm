@@ -11,7 +11,7 @@ public class StringEncryptor03 {
         return encrypted.toString();
 
 }
-
+//
     public static void main(String[] args) {
         String s = "abcdefg";
         int k = 3;
